@@ -77,24 +77,37 @@ Press `Ctrl + Alt + T` to open the terminal.
 
 ### Step 2: Clone the Repository
 ```bash
-git clone <your-repository-link>
-cd <repository-folder>
+git clone https://github.com/Kartik740/oss-audit-24BAI10071-Kartikay_Singh.git
+cd oss-audit-24BA110071-Kartikay_Singh
+```
 
 ### Step 3: Give Execution Permission
+```bash
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+```
 
 ### Step 4: Run Each Script
 Script 1
+```bash
 ./script1.sh
+```
 
 Script 2
+```bash
 ./script2.sh
+```
 
 Script 3
+```bash
 ./script3.sh
+```
 
 Script 4
+```bash
 ./script4.sh /path/to/logfile error
+```
 
 Script 5
+```bash
 ./script5.sh
+```

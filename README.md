@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Name:** Kartikay Singh  
-- **Roll Number:** [Enter Your Roll Number]  
+- **Roll Number:** 24BAI10071 
 - **Course:** Open Source Software  
 
 ---
